@@ -49,7 +49,7 @@ function add(n) {
 
 function igual() {
     add(Number(digitando))
-    window.alert('A soma dos valores é igual a: ' + resultado)
+    window.alert('O Resultado das operações é: ' + resultado)
     resultado = 0
     digitando = ''
     op_at = '+'
